@@ -25,9 +25,9 @@
     "sha256": "ffdf1a7f5ed4d54cbdba8cf6745adc97de95d0361159cee5c58c3fc8c706f526"
   },
   {
-    "file": "app.a796546e90.js",
-    "bytes": 206589,
-    "sha256": "a796546e90aaa05217ad42f19176967cb1084220a1bd51c932743e02edc55c85"
+    "file": "app.e1a43b9f16.js",
+    "bytes": 207127,
+    "sha256": "e1a43b9f16d3bd522fcadedcb1582c20a7928473489ce6cb3002d9a6295957cb"
   },
   {
     "file": "apple-touch-icon.c4e7a78973.png",
@@ -38,6 +38,16 @@
     "file": "asset-symbols.3029f85090.js",
     "bytes": 6837,
     "sha256": "3029f8509075ab4bf96ce470b3230add765615b2e7f398aaeba879893ac424e7"
+  },
+  {
+    "file": "brand-intro.9f5585bb8c.css",
+    "bytes": 13819,
+    "sha256": "9f5585bb8c3d559dea2070721c7c173457d17d9d2a179fe847491a80a16a1b35"
+  },
+  {
+    "file": "brand-intro.c1af4ad588.js",
+    "bytes": 6426,
+    "sha256": "c1af4ad5880c63a152c49087c7da46666effea38409e7f475143e13c501f52ad"
   },
   {
     "file": "config.6cd826fde3.js",
@@ -66,8 +76,8 @@
   },
   {
     "file": "index.html",
-    "bytes": 11425,
-    "sha256": "c78bbf397144ab15923770e3ec66ebd95f135f7fc59394ecae5cc61217fa70ee"
+    "bytes": 13128,
+    "sha256": "7165e8ef9b2865503b7af5124ad732caf2d4c9bd57eedcf51f838b2db2556aa2"
   },
   {
     "file": "intelligent-object.39c7da95af.js",
@@ -120,6 +130,11 @@
     "sha256": "1bd1335a65dac024dcba9843c60160b3b53faa46967b1b3ae2a4d5ef0ff04fce"
   },
   {
+    "file": "sami-intro.1c4c23273f.mp3",
+    "bytes": 98681,
+    "sha256": "1c4c23273fcf83774ee2d8901337ec745382f2cc44525dfc1c49f66464261f49"
+  },
+  {
     "file": "sami-mark.a35b3708c9.png",
     "bytes": 36765,
     "sha256": "a35b3708c9f299ed60b0ab8642c833278fd68c0f662ed74720781175d840668e"
@@ -156,8 +171,8 @@
   },
   {
     "file": "sw.js",
-    "bytes": 2263,
-    "sha256": "213e2e01daa1be28e370dc11d59a91a423c71e27fc68b8ba5fb5ee02c6d2cab1"
+    "bytes": 2354,
+    "sha256": "19978ac750458b9f851c3b6a05bb1e1407d60945359c8832a9b0f3db3799c18d"
   },
   {
     "file": "voice-accessPoint.a2219d93d9.mp3",
