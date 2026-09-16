@@ -1,0 +1,15 @@
+SAMI v0.9.3 — PUBLIC ENTRY LINKS
+
+1. DIRECT / PRODUCT INTRO
+   https://YOUR-DOMAIN/
+   or https://YOUR-DOMAIN/index.html
+   Shows the short cinematic SAMI brand intro, then the Add SAMI to Home Screen gate.
+
+2. SALES / LAUNCH FILM
+   https://YOUR-DOMAIN/meet.html
+   Shows the full site-planning sales film. Ask SAMI then hands into the same Add to Home Screen gate.
+
+IMPORTANT
+The actual planning workspace is install-only. In a normal browser tab the workspace remains hidden and inaccessible. Chromium browsers use the native install prompt where available. iPhone/iPad Safari must use Share > Add to Home Screen because iOS does not expose a programmable install prompt.
+
+The installed PWA always starts at index.html via the manifest start_url.
